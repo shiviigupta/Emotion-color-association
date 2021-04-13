@@ -1,5 +1,0 @@
-0 happy
-1 sad
-2 fear
-3 disgust
-4 anger
