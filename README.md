@@ -1,2 +1,6 @@
-# color-context
-Studying emotion-color associations in CNNs. This will hold all the data for the experiments.
+# Emotion-Color Association in Deep Neural Networks
+
+[Abstract in Cognitive Science Society 2021 Conference proceedings](https://escholarship.org/uc/item/4pj660d6) <br />
+[Arxiv preprint](https://arxiv.org/abs/2011.11058) <br />
+[Video presentation](https://www.youtube.com/watch?v=7lEkt6kF6hk&ab_channel=BCSIITK) <br />
+
