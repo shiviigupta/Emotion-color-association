@@ -6,4 +6,4 @@ Undergraduate supervisor: Dr. K S Venkatesh
 [Arxiv preprint](https://arxiv.org/abs/2011.11058) <br />
 [Video presentation](https://www.youtube.com/watch?v=7lEkt6kF6hk&ab_channel=BCSIITK) <br />
 
-More details on running the code and dataset inside /code
+More details on running the code and dataset inside /codes
